@@ -23,3 +23,4 @@ And now... Let's get concrete and simple.
 ....
 
 
+![VeganPizza](.png)
