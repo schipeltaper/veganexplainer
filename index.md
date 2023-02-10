@@ -23,4 +23,4 @@ And now... Let's get concrete and simple.
 ....
 
 
-![VeganPizza](.png)
+![VeganPizza](Poster-Vegan-Schijf-.png)
