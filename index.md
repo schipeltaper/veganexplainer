@@ -66,3 +66,24 @@ For your calcium we've included an inner section in the vegan pizza for calcium 
 [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/]
 
 For the remaining nutritients we go to the crust of the vegan pizza which represents what you consume through water. So water and supplements. The current scientific consensus recommends supplementing B12, D and omega 3.
+
+**Vitamin D** deficiency is very common, so even when not going vegan it can be recommended to supplement. [About 1 billion people worldwide have vitamin D deficiency, while 50% of the population has vitamin D insufficiency https://my.clevelandclinic.org/health/diseases/15050-vitamin-d-vitamin-d-deficiency]
+
+How much vitamin D you need depends on where you live, age, skin color, weight, foods you eat, and certain health conditions. [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks]
+
+According to Harvard Medical School you probably don't need to supplement more than 15 to 20 mcg per day. Some may need a higher dose but unless your doctor recommends it, avoid taking more than 100mcg per day. [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks]. And beware that it might be added in your fortified foods, so you can check that!
+
+**Omega 3**
+There are three essential types of Omega 3: ALA, EPA and DHA. ALA is contained in vegetable oils and nuts (especially walnuts), chia seed [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/omega-3-and-omega-6-fats], flax seeds and flaxseed oil and leafy vegetables. [ https://academic.oup.com/ajcn/article/100/suppl_1/443S/4576604] So you will get this easily when following the vegan pizza.
+
+Then there are two other forms of omega 3: EPA and DHA. Your body converts ALA into DHA and EPA but this conversion isn't very efficient, so on a plant-based diet it is recommended to supplement 250 to 500 mg combined EPA and DHA for healthy adults [https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines]
+
+**B12**
+Then finally and maybe most importantly! The only nutrient that you can not naturally get by eating plant-based foods: Vitamin B12. [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12] A type of B12 is in some natural plantbased products, but this type is not properly absorbed, and the current consensus is that supplementation or fortified foods are reliable sources of B12 in contrast to natural products. [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12]
+
+If you're doing a daily supplementation take at least 10mcg per day [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12] and at most 1000 mcg. [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks] This maximum is so high because B12 is a water-soluble vitamine which makes high doseges generally considered safe [https://www.healthline.com/nutrition/too-much-vitamin-b12#helpful-or-harmful]
+
+If you only supplement weekly, it is recommended to take at least 2000mcg. I know, daily at least 10, weekly at least 2000. The number don't add up, but trust me. This is just how vitamin b12 works. You can check the references if you want to learn more! [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12]
+
+
+If you eat vegan you absolutely need to supplement vitamin B12 or consume foods with fortified B12. At least, that's what the current scientific consensus says.
