@@ -30,11 +30,9 @@ Let me introduce to you the vegan pizza. It has 5 slices and a crust. Each of th
 
 This vegan pizza was created by a team of dietitians working with the Dutch Society for Veganism [Source: https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]. The size of each slice represents how much grams is recommended to take relative to each other. 
 
-[TODO explain each sections (listing by showing many products within thaqt section) and then increasing a nutrients bar proportionally]
-
 Let's start with the biggest sectionn: The vegetables. The recommended amount is at least 250 to 300 grams a day [https://www.veganisme.org/informatie/voeding/]
 
-Then the second biggest section is the wholemeal grains (and potatoes). This includes rice, potatoes, wholemeal bread, wholemeal pasta. Being a good source for certain nutrients it is also partly how you get your complete proteins from plants!
+Then the second biggest section is the wholemeal grains (and potatoes). This includes rice, potatoes, wholemeal bread, oats, wholemeal pasta. Being a good source for certain nutrients it is also partly how you get your complete proteins from plants!
 
 Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chicpeas and all beans. Legumes are a great source of many essential nutrients PLUS lgeumes combined with a wholemeal grain can be considered to make a complete protein [Source that claims this https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx]
 
@@ -51,7 +49,21 @@ Then our next section is fruit. The recommended amount is at least 2 to 3 pieces
 
 Then our next slice is nuts, pips and seads. Eventhough peanuts are technically a legume, nutrionally they are also a part of this sections. So peanutbutter, flaxseeds, walnuts, sesame seeds. Recommended is to at least include a handul of nuts a day and once a week some more [https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
 
-Here are all nutritients and things you might consider wanting to take into account into your diet. Here are the nutritients of which the current consensus claims you should keep an eye on. [include source]
+Here are all nutrients and things you might consider wanting to take into account into your diet. Here are the nutritients of which the current consensus claims you should keep an eye on. [include source]
+- Protein * +
+- Iron * +
+- Vit B1 *
+- Vit B2 *
+- Vit B12 * +
+- Calcium * +
+- Vit B6
+- Vit D * +
+- Iodine * +
+- Omega-3 fatty acids +
+- Zinc
+- Selenium +
+[* https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
+[+ https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/]
 
 If you eat the sections of the vegan pizza and vary, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over.
 
