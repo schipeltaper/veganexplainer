@@ -32,4 +32,17 @@ This vegan pizza was created by a team of dietitians working with the Dutch Soci
 
 [TODO explain each sections (listing by showing many products within thaqt section) and then increasing a nutrients bar proportionally]
 
+Let's start with the biggest sectionn: The vegetables. The recommended amount is at least 250 to 300 grams a day [https://www.veganisme.org/informatie/voeding/]
 
+Then the second biggest section is the wholemeal grains. 
+
+
+Here are all nutritients and things you might consider wanting to take into account into your diet. Here are the nutritients of which the current consensus claims you should keep an eye on. [include source]
+
+If you eat the sections of the vegan pizza and vary, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over.
+
+For your Iodine make sure to either eat bread with iodized salt, or seaweed, or iodized table salt. 
+
+For your calcium we've included an inner section in the vegan pizza for calcium rich products. So be sure to also include them in your diet.
+
+For the remaining nutritients we go to the crust of the vegan pizza which represents what you consume through water. So water and supplements. The current scientific consensus recommends supplementing B12, D and omega 3.
