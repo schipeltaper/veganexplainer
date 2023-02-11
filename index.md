@@ -56,7 +56,7 @@ Here are all nutritients and things you might consider wanting to take into acco
 
 If you eat the sections of the vegan pizza and vary, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over.
 
-For your Iodine make sure to either eat bread with iodized salt, or seaweed, or iodized table salt. 
+For your Iodine make sure to either eat bread with iodized salt, or seaweed, or iodized table salt. [https://www.hsph.harvard.edu/nutritionsource/iodine/]
 
 For your calcium we've included an inner section in the vegan pizza for calcium rich products. So be sure to also include them in your diet. Calciumrich products include - green, leafy vegetables such as broccoli, cabbage and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
 - sesame seeds and tahini
