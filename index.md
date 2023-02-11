@@ -34,7 +34,16 @@ This vegan pizza was created by a team of dietitians working with the Dutch Soci
 
 Let's start with the biggest sectionn: The vegetables. The recommended amount is at least 250 to 300 grams a day [https://www.veganisme.org/informatie/voeding/]
 
-Then the second biggest section is the wholemeal grains. 
+Then the second biggest section is the wholemeal grains (and potatoes). This includes rice, potatoes, wholemeal bread, wholemeal pasta. Being a good source for certain nutrients it is also partly how you get your complete proteins from plants!
+
+Which brings us to the next sections. Legumes! This includes peas, chicpeas and all beans. Legumes are a great source of many essential nutrients PLUS lgeumes combined with a wholemeal grain can be considered to make a complete protein [Source that claims this https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx]
+
+For example
+- wholemeal bread with hummus
+- Brown rice with beans
+- Wholemeal pasta with chicpeas
+
+"This all is actually a really good dinner!"
 
 
 Here are all nutritients and things you might consider wanting to take into account into your diet. Here are the nutritients of which the current consensus claims you should keep an eye on. [include source]
