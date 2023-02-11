@@ -15,6 +15,7 @@ We're basing this entire video on scientific literature and you can find a link 
 - https://www.veganisme.org/informatie/voeding/
 - https://www.nhs.uk
 - https://www.hsph.harvard.edu/
+- https://www.vegansociety.com/
 ]
 
 And now... Let's get concrete and simple.
