@@ -13,9 +13,6 @@ We're basing this entire video on scientific literature and you can find a link 
 - https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx
 - https://www.nlm.nih.gov/
 - https://www.veganisme.org/informatie/voeding/
-- https://academic.oup.com/ajcn/article/89/5/1627S/4596952
-- https://www.medicalnewstoday.com/articles/149636#benefits
-- https://www.who.int/
 - https://www.nhs.uk
 ]
 
