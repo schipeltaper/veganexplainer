@@ -24,3 +24,12 @@ And now... Let's get concrete and simple.
 
 
 ![VeganPizza](Poster-Vegan-Schijf-.png)
+[Translated and taken from https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
+
+Let me introduce to you the vegan pizza. It has 5 slices and a crust. Each of these sections represents one categorie of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories each day and vary within those catefories you will get all the nutritients you need. [Dutch source explaining how to eat vegan: https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
+
+This vegan pizza was created by a team of dietitians working with the Dutch Society for Veganism [Source: https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
+
+[TODO explain each sections (listing by showing many products within thaqt section) and then increasing a nutrients bar proportionally]
+
+
