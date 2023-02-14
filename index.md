@@ -56,11 +56,11 @@ Here are all nutrients and things you might consider wanting to take into accoun
 - Vit B2 *
 - Vit B12 * +
 - Calcium * +
-- Vit B6
+- Vit B6 [https://europepmc.org/article/med/1797957]
 - Vit D * +
 - Iodine * +
 - Omega-3 fatty acids +
-- Zinc
+- Zinc [https://academic.oup.com/ajcn/article/89/5/1627S/4596952]
 - Selenium +
 [* https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
 [+ https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/]
