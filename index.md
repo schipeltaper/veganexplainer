@@ -6,8 +6,9 @@ SCRIPT
 **In this video we will show you how you can have a perfectly healthy plantbased diet based on the current scientific consensus.**
 
 > Sources that claim this is possible (for all stages of life): 
->  - https://pubmed.ncbi.nlm.nih.gov/27886704/ "appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."
-> - 
+>  - https://pubmed.ncbi.nlm.nih.gov/27886704/ *"appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."*
+> - https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx Translated from Dutch: *"How can I eat a vegan healthily?"* followed by an detailed explanation.
+> - https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y *"healthful and well-planned plant-based meals can provide adequate levels of micronutrients."*
 
 If you do eat or want to eat more plantbased, be sure to watch until the end, as although it is very possible; there are clear examples of vegan diets which are not healthy [Source that shows vegans who don't supplement B12 are at higher health risk: https://www.mdpi.com/2072-6643/11/12/3019]
 
