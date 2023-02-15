@@ -60,20 +60,23 @@ Then our next section is fruit. The recommended amount is at least 2 to 3 pieces
 Then our next slice is nuts, pips and seads. Eventhough peanuts are technically a legume, nutrionally they are also a part of this sections. So peanutbutter, flaxseeds, walnuts, sesame seeds. Recommended is to at least include a handul of nuts a day and once a week some more [https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
 
 Here are all nutrients and things you might consider wanting to take into account into your diet. Here are the nutritients of which the current consensus claims you should keep an eye on. [include source]
-- Protein * +
+- Protein * + -
 - Iron * +
 - Vit B1 *
-- Vit B2 *
-- Vit B12 * +
-- Calcium * +
+- Vit B2 * -
+- Vit B3 -
+- Vit B12 * + -
+- Calcium * + -
+- Potassium -
 - Vit B6 [https://europepmc.org/article/med/1797957]
-- Vit D * +
-- Iodine * +
+- Vit D * + -
+- Iodine * + -
 - Omega-3 fatty acids +
-- Zinc [https://academic.oup.com/ajcn/article/89/5/1627S/4596952]
-- Selenium +
+- Zinc - and [https://academic.oup.com/ajcn/article/89/5/1627S/4596952]
+- Selenium + -
 [* https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
 [+ https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/]
+[- https://pubmed.ncbi.nlm.nih.gov/33341313/]
 
 If you eat the sections of the vegan pizza and vary, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over.
 
