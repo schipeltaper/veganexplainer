@@ -13,7 +13,9 @@ Following is the script of the "How to eat vegan healthily" youtube video with t
 > - https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx Translated from Dutch: *"How can I eat a vegan healthily?"* followed by a detailed explanation.
 > - https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y *"healthful and well-planned plant-based meals can provide adequate levels of micronutrients."*
 
-If you do eat or want to eat more plantbased, be sure to watch until the end, as although it is very possible; there are clear examples of vegan diets which are not healthy [Source that shows vegans who don't supplement B12 are at higher health risk: https://www.mdpi.com/2072-6643/11/12/3019]
+**If you do eat or want to eat more plantbased, be sure to watch until the end, as although it is very possible; there are clear examples of vegan diets which are not healthy**
+> Sources that show different kinds of health risks associated to a not well planned vegan diet:
+> - https://www.mdpi.com/2072-6643/11/12/3019 *"Vitamin B12 Deficiency Is Prevalent Among Czech Vegans Who Do Not Use Vitamin B12 Supplements"*]
 
 We're basing this entire video on scientific literature and you can find a link to all our references in the description! We've ensured our sources are independent (without ulterior motive), basing their information on papers published in scientific journals. [https://en.wikipedia.org/wiki/Google_Scholar]
 
