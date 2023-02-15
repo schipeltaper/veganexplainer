@@ -16,6 +16,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 **If you do eat or want to eat more plantbased, be sure to watch until the end, as although it is very possible; there are clear examples of vegan diets which are not healthy**
 > Sources that show different kinds of health risks associated to a not well planned vegan diet:
 > - https://www.mdpi.com/2072-6643/11/12/3019 *"Vitamin B12 Deficiency Is Prevalent Among Czech Vegans Who Do Not Use Vitamin B12 Supplements"*]
+> - https://europepmc.org/article/med/31617971 *"vegans are at higher risk of iron and calcium deficiency"*
+
 
 **We're basing this entire video on scientific literature and you can find a link to all our references in the description! We've ensured our sources are independent (without ulterior motive), basing their information on papers published in scientific journals.**
 > The main organizations we have used:
@@ -34,8 +36,10 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 ![VeganPizza](Poster-Vegan-Schijf-.png)
 [Translated and taken from https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
 
-**Let me introduce to you the vegan pizza. It has 5 slices and a crust. Each of these sections represents one categorie of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories each day and vary within those catefories you will get all the nutritients you need.**
-> Dutch source explaining how to eat vegan: https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
+**Let me introduce to you the vegan pizza. It has 5 slices and a crust. Each of these sections represents one category of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories each day and vary within those categories you will get all the nutritients you need.**
+> Dutch source explaining how to eat vegan: https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx
+> https://www.healthline.com/nutrition/vegan-diet-guide#at-restaurants *"Remember to vary your sources of protein and vegetables throughout the day, as each provides different vitamins and minerals that are important for your health."*
+> An independant analysis of this vegan pizza: https://www.consumentenbond.nl/duurzamer-eten/is-eten-volgens-de-vegan-schijf-gezond
 
 **This vegan pizza was created by a team of dietitians working with the Dutch Society for Veganism.**
 > Source: https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/
@@ -92,6 +96,7 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 
 **For your Iodine make sure to either eat bread with iodized salt, or seaweed, or iodized table salt.**
 > https://www.hsph.harvard.edu/nutritionsource/iodine/
+> https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6 *"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*
 
 **For your calcium we've included an inner section in the vegan pizza for calcium rich products. So be sure to also include them in your diet. Calciumrich products include**
 - **green, leafy vegetables such as broccoli, cabbage and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)**
@@ -108,6 +113,9 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 **Vitamin D deficiency is very common, so even when not going vegan it can be recommended to supplement.**
 > https://my.clevelandclinic.org/health/diseases/15050-vitamin-d-vitamin-d-deficiency *"About 1 billion people worldwide have vitamin D deficiency, while 50% of the population has vitamin D insufficiency"*
 
+**Or you can consume foods fortified with vitamin D and certain mushrooms (CHECK YOURSELF IF IT'S ENOUGH)**
+>   https://www.healthline.com/health/vegan-vitamin-d
+
 **How much vitamin D you need depends on where you live, age, skin color, weight, foods you eat, and certain health conditions.**
 > https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks
 
@@ -123,6 +131,9 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 
 **Then there are two other forms of omega 3: EPA and DHA. Your body converts ALA into DHA and EPA but this conversion isn't very efficient, so on a plant-based diet it is recommended to supplement 250 to 500 mg combined EPA and DHA for healthy adults**
 > https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines
+
+**To improve absorption of these supplements, it can help to consume them with a meal containing dietary fats. So with your nuts, pips and seeds. Or olive or coconot oil**
+> https://sciendo.com/article/10.5604/01.3001.0014.9343 *"How-ever, many of them are in ethyl ester formulations, from which EPA and DHA are poorly absorbed when consumed without a meal containing dietary fat."*
 
 ### B12
 **Then finally and maybe most importantly! The only essential nutrient that you can not naturally get by eating plant-based foods. And so on a plantbased diet you absolutely need to supplement: Vitamin B12.**
@@ -142,6 +153,10 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 
 **If you only supplement weekly, it is recommended to take at least 2000mcg. I know, daily at least 10, weekly at least 2000. The numbers don't add up, but trust me. This is just how vitamin b12 works. You can check the references if you want to learn more!**
 > https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12
+
+### Finally - TODO
+This video is simply a tool in your plant-based diet. In any case it is reommended to test your blood levels every 1 to 3 years; especially if you notice any symptoms.
+> https://www.veganisme.org/informatie/voeding/bloedonderzoek/
 
 ### Recap
 And so this completes the vegan pizza! 5 slices and a crust. If you eat each of these sections every day and vary within each slice and make sure to include calcium rich products, the current consensus says you will get all nutritients you need.
