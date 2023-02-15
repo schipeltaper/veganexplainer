@@ -4,6 +4,7 @@ SCRIPT
 [Foreshadowing the video]
 
 In this video we will show you how you can have a perfectly healthy plantbased diet based on the current scientific consensus.
+
   [Sources that claim this is possible (for all stages of life): 
   - https://pubmed.ncbi.nlm.nih.gov/27886704/ "appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."
   - 
