@@ -50,16 +50,14 @@ Following is the script of the "How to eat vegan healthily" youtube video with t
 **Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chicpeas and all beans. Legumes are a great source of many essential nutrients PLUS lgeumes combined with a wholemeal grain can be considered to make a complete protein.**
 > Source that claims this https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx
 
-**
-For example
-- wholemeal bread with hummus
-- Brown rice with beans
-- Wholemeal pasta with chicpeas
+**For example**
+- **wholemeal bread with hummus**
+- **Brown rice with beans**
+- **Wholemeal pasta with chicpeas**
 
-And where are those vegetables from earlier?
+**And where are those vegetables from earlier?**
 
-"This all is actually a really good dinner!"
-**
+**This all is actually a really good dinner!**
 
 **Then our next section is fruit. The recommended amount is at least 2 to 3 pieces of fruit every day.**
 > https://www.veganisme.org/informatie/voeding/
@@ -68,9 +66,9 @@ And where are those vegetables from earlier?
 > https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/
 
 **Then our next slice is nuts, pips and seads. Eventhough peanuts are technically a legume, nutrionally they are also a part of this sections. So peanutbutter, flaxseeds, walnuts, sesame seeds. Recommended is to at least include a handul of nuts a day and once a week some more**
-> [https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx]
+> https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx
 
-**Here is a list of all nutrients of which the consensus says you might want to look out for when you stop eating animal products.
+**Here is a list of all nutrients of which the consensus says you might want to look out for when you stop eating animal products.**
 - Protein * + -
 - Iron * +
 - Vit B1 *
@@ -95,13 +93,12 @@ And where are those vegetables from earlier?
 **For your Iodine make sure to either eat bread with iodized salt, or seaweed, or iodized table salt.**
 > https://www.hsph.harvard.edu/nutritionsource/iodine/
 
-**For your calcium we've included an inner section in the vegan pizza for calcium rich products. So be sure to also include them in your diet. Calciumrich products include
-- green, leafy vegetables such as broccoli, cabbage and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
-- sesame seeds and tahini
-- dried fruit, such as raisins, prunes, figs and dried apricots
-- calcium-set tofu
-- It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)
-**
+**For your calcium we've included an inner section in the vegan pizza for calcium rich products. So be sure to also include them in your diet. Calciumrich products include**
+- **green, leafy vegetables such as broccoli, cabbage and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)**
+- **sesame seeds and tahini**
+- **dried fruit, such as raisins, prunes, figs and dried apricots**
+- **calcium-set tofu**
+- **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
 > https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/
 
 **For the remaining nutritients we go to the crust of the vegan pizza which represents what you consume through water. So water and supplements. The current scientific consensus recommends supplementing B12, D and omega 3.**
