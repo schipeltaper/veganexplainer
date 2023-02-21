@@ -18,6 +18,7 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 > Sources that show different kinds of health risks associated to a not well planned vegan diet:
 > - [*"Vitamin B12 Deficiency Is Prevalent Among Czech Vegans Who Do Not Use Vitamin B12 Supplements"*](https://www.mdpi.com/2072-6643/11/12/3019)
 > - [*"vegans are at higher risk of iron and calcium deficiency"*](https://europepmc.org/article/med/31617971)
+> - [*"lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans"*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779846/)
 
 
 **We're basing this entire video on scientific literature and you can find a link to all our references in the description! We've ensured our claims are based on scientific literature or on respected and generally accepted to be reliable organizations who back up their claims with scientific research.**
@@ -53,8 +54,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 **Then the second biggest section is the wholemeal grains (and potatoes). This includes rice, potatoes, wholemeal bread, oats, wholemeal pasta. Being a good source for certain nutrients it is also partly how you get your complete proteins from plants!**
 
 **Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chickpeas and all beans. Legumes are a great source of many essential nutrients PLUS legumes combined with a wholemeal grain can be considered to make a complete protein.**
-> [Source](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx) that claims this. 
-> [For example, grains like rice are too low in lysine to be considered a complete source of protein. Yet, by also eating lentils or beans, which are higher in lysine, throughout the day, you can be sure to obtain all nine essential amino acids](https://www.healthline.com/nutrition/complete-protein-for-vegans#_noHeaderPrefixedContent)
+>   - [Source](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx) that claims this. 
+>   - [For example, grains like rice are too low in lysine to be considered a complete source of protein. Yet, by also eating lentils or beans, which are higher in lysine, throughout the day, you can be sure to obtain all nine essential amino acids](https://www.healthline.com/nutrition/complete-protein-for-vegans#_noHeaderPrefixedContent)
 
 **For example**
 - **wholemeal bread with hummus**
