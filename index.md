@@ -5,12 +5,13 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 ### SCRIPT
 
 [Foreshadowing the video]
+**According to the academy of Nutrition and Dietetics appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle, and also for athletes.**
 
 **In this video we will show you how you can have a perfectly healthy plantbased diet based on the current scientific consensus.**
 
 > Sources that claim this is possible: 
 >  - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/27886704/) *"appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."*
-> - [Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx) Translated from Dutch: *"How can I eat a vegan healthily?"* followed by a detailed explanation.
+> - [Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx) Translated from Dutch: *"How can I eat vegan healthily?"* followed by a detailed explanation.
 > - [World Health Organization](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y) *"healthful and well-planned plant-based meals can provide adequate levels of micronutrients."*
 > - For athletes: [*"it is the contention of this article that a nutritive vegan diet can be designed to achieve the dietary needs of most athletes satisfactorily"*](https://pubmed.ncbi.nlm.nih.gov/28924423/)
 
@@ -39,14 +40,18 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 [Translated and taken from https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
 
 **Let me introduce to you the vegan pizza. It has 5 slices and a crust. Each of these 6 sections represents one category of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories each day and vary within those categories you will get all the nutrients you need.**
-> [Dutch source explaining how to eat vegan](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
-> [*"Remember to vary your sources of protein and vegetables throughout the day, as each provides different vitamins and minerals that are important for your health."*](https://www.healthline.com/nutrition/vegan-diet-guide#at-restaurants)
-> [An independant analysis of this vegan pizza](https://www.consumentenbond.nl/duurzamer-eten/is-eten-volgens-de-vegan-schijf-gezond)
+>   - [Dutch source explaining how to eat vegan](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
+>   - [*"Remember to vary your sources of protein and vegetables throughout the day, as each provides different vitamins and minerals that are important for your health."*](https://www.healthline.com/nutrition/vegan-diet-guide#at-restaurants)
+>   - [An independant analysis of this vegan pizza](https://www.consumentenbond.nl/duurzamer-eten/is-eten-volgens-de-vegan-schijf-gezond)
 
 **This vegan pizza was created by a team of dietitians working with the Dutch Society for Veganism.**
 > [Source: NieuwsVoorDietisten](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
 
-**The size of each slice represents how much grams is recommended to take relative to each other.**
+**Explaining each section, we will not go into the details of HOW MUCH you need of each category. As this depends on multiple factors which are not the same for everyone.**
+> A few examples that show this:
+>   - [*"To determine your daily protein intake, you can multiply your weight in pounds by 0.36"*](https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096)
+>   - [*"Your recommended calorie intake depends on various factors, like age and activity level."*](https://www.healthline.com/nutrition/how-many-calories-per-day)
+>   - [Factors that might affect your vitamin D levels: Where you live, Your age, Your skin color, Your weight, Certain health conditions](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 
 **Let's start with the biggest section: The vegetables. The recommended amount is at least 250 to 300 grams a day.**
 > [https://www.veganisme.org/informatie/voeding/](https://www.veganisme.org/informatie/voeding/)
@@ -60,12 +65,14 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 **For example**
 - **wholemeal bread with hummus**
 - **Brown rice with beans**
-- **Wholemeal pasta with chicpeas**
+- **Wholemeal pasta with chickpeas**
 
 **And where are those vegetables from earlier?**
 
 **This all is actually a really good dinner!**
 > Source: My personal opinion :)
+
+**If at any point this all seems like a lot to take in, I recommend watching until the end as we'll include some nice sources that you can go to if you want to pursue eating a healthy plant-based diet**
 
 **Then our next section is fruit. The recommended amount is at least 2 to 3 pieces of fruit every day.**
 > [https://www.veganisme.org/informatie/voeding/](https://www.veganisme.org/informatie/voeding/)
@@ -97,6 +104,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 > - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/33341313/)
 
 **If you eat these 5 slices of the vegan pizza (without the crust!) and vary within each slice, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over as not being trivially sufficient.**
+
+**Wait, how can I trust you in that you really get all those nutrients? I'm glad you ask! In our references page we've included a table with all nutrients that you should look out for when having a vegan diet, and how you can get them through the vegan pizza with references.**
 > Plant-based sources of protein.
 >   - [Examples of plantbased protein](http://www.lynneshealth.com/resources/Articles/12%20Complete%20Proteins%20Vegetarians%20Need%20to%20Know%20About.pdf).
 >   - [*"Vegetarians should obtain protein from a variety of plant sources, including legumes, soy products, grains, nuts and seeds."*](https://pubmed.ncbi.nlm.nih.gov/25369930/),
@@ -132,6 +141,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 - **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
 >   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 >   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
+
+**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient intake by following this vegan pizza. We're willing to bet you can! In any case please share your findings in the comments!**
 
 **For the remaining nutrients we go to the crust of the vegan pizza which represents what you consume through water. So water and supplements. The current scientific consensus recommends supplementing B12, D and omega 3.**
 
@@ -178,15 +189,36 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 >   - [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 >   - [https://www.healthline.com/nutrition/too-much-vitamin-b12#helpful-or-harmful](https://www.healthline.com/nutrition/too-much-vitamin-b12#helpful-or-harmful)
 
-
-### Finally - (BELOW=TODO)
-This video is simply a tool in your plant-based diet. In any case it is recommended to test your blood levels every 1 to 3 years; especially if you notice any symptoms.
-> https://www.veganisme.org/informatie/voeding/bloedonderzoek/
-
 ### Recap
-And so this completes the vegan pizza! 5 slices and a crust. If you eat each of these sections every day and vary within each slice and make sure to include calcium rich products, the current consensus says you will get all nutritients you need.
+This completes the vegan pizza! 5 slices and a crust. If you eat each of these sections every day and vary within each slice and make sure to include calcium rich products, the current consensus says you will get all nutritients you need.
 
-### Ending and further sources
-We haven't at all discussed practical aspects: of the kinds of meals you can make and how. So if you want to go further and more practical, we've included some sources in the description that you can look into.
+### Pro tips
+And now, for some extra tips:
 
-And if you know someone who might benefit from this, please do share this video. We'd really appreciate it! And it makes us very happy to read your feedback and thoughts in the comments! So feel free to do so :) BYEE
+**Should I take mulivitamin? Harvard School Of Public Health says "For those who eat a healthful diet, a multivitamin may have little or no benefit. A diet that includes plenty of fruits, vegetables, whole grains, good protein sources, and healthful fats should provide most of the nutrients needed for good health." And concludes by saying "a multivitamin CANNOT in any way replace a healthful well-balanced diet. The main purpose of a multivitamin is to fill in nutritional gaps, and provides only a hint of the vast array of healthful nutrients and chemicals naturally found in food"**
+>   - [Should I Take a Daily Multivitamin?](https://www.hsph.harvard.edu/nutritionsource/multivitamin/)
+
+**Beware that replacement products for cows milk, yoghurt, cheese and meat are often fortified with nutrients. Eating nutrients through fortified foods are another way to get your D, calcium, iron, B12 and Omega3. If you choose to eat these kinds of products, check how much of the nutritients are added to balance out with your supplements and make sure you don't over-supplement any nutrient.**
+> [Are Fortified and Enriched Foods Healthy?](https://www.healthline.com/health/food-nutrition/fortified-and-enriched-foods)
+
+**The official Dutch dietary advisory organization 'Voedingscentrum' says these foods can be healthy if they contain less than 1.1 grams salt per 100 gram.**
+[Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
+
+**In a meal, vitamin C rich products enhances the absorption of iron, so it can be beneficial to combine these two during your meals.**
+>   - [*"Ascorbic acid is a powerful enhancer of nonheme iron absorption"*](https://pubmed.ncbi.nlm.nih.gov/6940487/) (Vitamin C is a powerful enhancer of iron absorption)
+
+**For example**
+- **Bell peppers with beans**
+- **Or lemon with lentils**
+- **Or tomatoes with chickpeas**
+- **Or brussel sprouts with potatoe with skin**
+- **Or strawberries with nuts?**
+
+**Or any other combination**
+
+### Finally
+**This video is simply a tool in your plant-based diet. Also, we're not professionals in this field. We've simply searched and investigated the current consensus. Please don't have this video be your only source! For further sources we recommend...** 
+
+**Our goals was a video that gives a simple, complete and clear overview of how to eat a healthy diet. Subscribe to not miss our video ""How to eat vegan healthily in 2024" where we will include new resources, and more thorough information.**
+
+**If you know someone who might benefit from this, please do share this video. We'd really appreciate it! And it makes us very happy to read your feedback and thoughts in the comments! So feel free to do so :) BYEE**
