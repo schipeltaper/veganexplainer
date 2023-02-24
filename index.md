@@ -106,6 +106,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 **If you eat these 5 slices of the vegan pizza (without the crust!) and vary within each slice, this is all the nutritients that you'll have sufficient amounts of. We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over as not being trivially sufficient.**
 
 **Wait, how can I trust you in that you really get all those nutrients? I'm glad you ask! In our references page we've included a table with all nutrients that you should look out for when having a vegan diet, and how you can get them through the vegan pizza with references.**
+> Our nutrient table is [here](http://veganexplainer.pineapplees.com/nutrition)
+
 > Plant-based sources of protein.
 >   - [Examples of plantbased protein](http://www.lynneshealth.com/resources/Articles/12%20Complete%20Proteins%20Vegetarians%20Need%20to%20Know%20About.pdf).
 >   - [*"Vegetarians should obtain protein from a variety of plant sources, including legumes, soy products, grains, nuts and seeds."*](https://pubmed.ncbi.nlm.nih.gov/25369930/),
