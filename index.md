@@ -4,25 +4,30 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 
 ### SCRIPT
 
-[Foreshadowing the video]
-**According to the academy of Nutrition and Dietetics appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle, and also for athletes.**
+## intro
+**Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus! In the past decade, we have seen a significant increase in the number of people who are interested in adopting a plant-based diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
 
-**In this video we will show you how you can have a perfectly healthy plantbased diet based on the current scientific consensus.**
+**That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!**
+> Source showing interest in a plant-based diet is growing https://www.vegansociety.com/news/media/statistics/worldwide
 
+**Let's first adress the question: Is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals.**
+> https://www.eatright.org/about-the-academy
+
+**They say appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle. In this, they also include athletes.**
 > Sources that claim this is possible: 
 >  - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/27886704/) *"appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."*
 > - [Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx) Translated from Dutch: *"How can I eat vegan healthily?"* followed by a detailed explanation.
 > - [World Health Organization](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y) *"healthful and well-planned plant-based meals can provide adequate levels of micronutrients."*
 > - For athletes: [*"it is the contention of this article that a nutritive vegan diet can be designed to achieve the dietary needs of most athletes satisfactorily"*](https://pubmed.ncbi.nlm.nih.gov/28924423/)
 
-**If you do eat or want to eat more plantbased, be sure to watch until the end. As although it is very possible, there are clear examples of vegan diets which are not healthy.**
+<!-- **If you do eat or want to eat more plantbased, be sure to watch until the end. As although it is very possible, there are clear examples of vegan diets which are not healthy.**
 > Sources that show different kinds of health risks associated to a not well planned vegan diet:
 > - [*"Vitamin B12 Deficiency Is Prevalent Among Czech Vegans Who Do Not Use Vitamin B12 Supplements"*](https://www.mdpi.com/2072-6643/11/12/3019)
 > - [*"vegans are at higher risk of iron and calcium deficiency"*](https://europepmc.org/article/med/31617971)
-> - [*"lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans"*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779846/)
+> - [*"lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans"*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779846/) -->
 
 
-**We're basing this entire video on scientific literature and you can find a link to all our references in the description! We've ensured our claims are based on scientific literature or on respected and generally accepted to be reliable organizations who back up their claims with scientific research.**
+> We're basing this entire video on scientific literature and you can find a link to all our references in the description! We've ensured our claims are based on scientific literature or on respected and generally accepted to be reliable organizations who back up their claims with scientific research.
 > The main organizations we have used:
 > - [Voedinscentrum](https://www.voedingscentrum.nl/)
 > - [National Library of Medicine](https://www.nlm.nih.gov/)
@@ -44,7 +49,7 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 >   - [*"Remember to vary your sources of protein and vegetables throughout the day, as each provides different vitamins and minerals that are important for your health."*](https://www.healthline.com/nutrition/vegan-diet-guide#at-restaurants)
 >   - [An independant analysis of this vegan pizza](https://www.consumentenbond.nl/duurzamer-eten/is-eten-volgens-de-vegan-schijf-gezond)
 
-**This vegan pizza was created by a team of dietitians working with the Dutch Society for Veganism.**
+**This vegan pizza might remind you of the food pyramid or food plate, and you'll see it has many similarities! This vegan pizza was created by a team of dietitians working together with the Dutch Society for Veganism to add a vegan version of such a framework which ensures you get all nutrients you need.**
 > [Source: NieuwsVoorDietisten](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
 
 **Explaining each section, we will not go into the details of HOW MUCH you need of each category. As this depends on multiple factors which are not the same for everyone.**
