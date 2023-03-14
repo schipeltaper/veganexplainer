@@ -4,10 +4,19 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 
 ### SCRIPT
 
-## intro
-**Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus! In the past decade, we have seen a significant increase in the number of people who are interested in adopting a plant-based diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
+## Intro
+Images of vegan meals
+
+**The vegan diet; a diet that excludes animal products like milk, eggs, beef and pork... In the past decade, we have seen a significant increase in the number of people interested in adopting such a diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
 
 **That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!**
+
+# How to have a healthy plant-based diet?
+## Based on the current scientific consensus
+---
+<!-- **Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus! In the past decade, we have seen a significant increase in the number of people who are interested in adopting a plant-based diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
+
+**That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!** -->
 > Source showing interest in a plant-based diet is growing https://www.vegansociety.com/news/media/statistics/worldwide
 
 **Let's first adress the question: Is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals.**
