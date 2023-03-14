@@ -5,6 +5,8 @@ Following is the script of the **"How to eat vegan healthily"** youtube video wi
 ### SCRIPT
 
 ## Intro
+**Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus!**
+
 Images of vegan meals
 
 **The vegan diet; a diet that excludes animal products like milk, eggs, beef and pork... In the past decade, we have seen a significant increase in the number of people interested in adopting such a diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
