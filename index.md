@@ -20,6 +20,7 @@ Images of vegan meals
 
 **That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!** -->
 > Source showing interest in a plant-based diet is growing https://www.vegansociety.com/news/media/statistics/worldwide
+> Two graphs: [1](https://gfi.org/blog/2020-state-of-the-industry-highlights/?utm_source=Newsletter&utm_medium=Email&utm_campaign=March_19_Newsletter) and [2](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07_hy)
 
 **Let's first adress the question: Is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals.**
 > https://www.eatright.org/about-the-academy
@@ -129,7 +130,7 @@ Images of vegan meals
 
 **We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over as not being trivially sufficient.**
 
-> Wait, how can I trust you in that you really get all those nutrients? I'm glad you ask! In our references page we've included a table with all nutrients that you should look out for when having a vegan diet, and how you can get them through the vegan pizza with references.
+> Wait, how can I trust you in that you really get all those nutrients? I'm glad you ask! In our references page we've included a table with all nutrients that you should look out for when having a vegan diet, and how you can get them through the vegan plate with references.
 > Our nutrient table is [here](http://veganexplainer.pineapplees.com/nutrition)
 
 > Plant-based sources of protein.
@@ -168,7 +169,7 @@ Images of vegan meals
 >   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 >   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
 
-**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following this vegan pizza. We're willing to bet you can! In any case please share your findings in the comments!**
+**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following this vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
 
 **For the remaining nutrients we go to the crust of the vegan plate  which represents what you consume through water. So water and supplements. So the consensus recommends supplementing B12, D and both omega 3 DHA and EPA.**
 
@@ -176,6 +177,7 @@ Images of vegan meals
 
 **Vitamin D deficiency is very common!**
 > [*"About 1 billion people worldwide have vitamin D deficiency, while 50% of the population has vitamin D insufficiency"*](https://my.clevelandclinic.org/health/diseases/15050-vitamin-d-vitamin-d-deficiency)
+
 **Vitamin D helps regulate the amount of calcium and phosphate in the body, which are needed to keep bones, teeth and muscles healthy. A lack of vitamin D can lead to bone deformities and bone pain. Other symptoms include: Fatigue, Not sleeping well, Depression or feelings of sadness, Hair loss, Muscle weakness, Loss of appetite, Getting sick more easily and Pale skin**
 **If you don't want any those symptoms, even when not going vegan it can be recommended to supplement.**
 
