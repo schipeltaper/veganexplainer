@@ -22,10 +22,12 @@ Images of vegan meals
 > Source showing interest in a plant-based diet is growing https://www.vegansociety.com/news/media/statistics/worldwide
 > Two graphs: [1](https://gfi.org/blog/2020-state-of-the-industry-highlights/?utm_source=Newsletter&utm_medium=Email&utm_campaign=March_19_Newsletter) and [2](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07_hy)
 
+-------------------------------------------
+
 **Let's first adress the question: Is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals.**
 > https://www.eatright.org/about-the-academy
 
-**They say appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle. In this, they also include athletes.**
+**And they say appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle. And in this, they also include athletes.**
 > Sources that claim this is possible: 
 >  - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/27886704/) *"appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."*
 > - [Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx) Translated from Dutch: *"How can I eat vegan healthily?"* followed by a detailed explanation.
@@ -39,7 +41,7 @@ Images of vegan meals
 > - [*"lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans"*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779846/) -->
 
 
-> We've ensured all our claims are either directly based on scientific literature or on generally accepted to be reliable organizations who base their claims on scientific literature.
+**We've ensured all our claims are either directly based on scientific literature or on generally accepted to be reliable organizations who base their claims on scientific literature. You can find a link to all our references in the description.**
 > The main organizations we have used:
 > - [Voedinscentrum](https://www.voedingscentrum.nl/)
 > - [National Library of Medicine](https://www.nlm.nih.gov/)
@@ -56,14 +58,14 @@ Images of vegan meals
 ![VeganPizza](Poster-Vegan-Schijf-.png)
 [Translated and taken from https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
 
-**Let me introduce to you the vegan plate. It has 5 slices and a crust. Each of these 6 sections represents one category of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories every single day and vary within those categories in general you should get all the nutrients you need.**
+**Let me introduce you to the vegan plate. It has 5 slices and a crust. Each of these 6 sections represents one category of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories every single day and vary within those categories in general you should get all the nutrients you need.**
 >   - [Dutch source explaining how to eat vegan](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
 >   - [*"Remember to vary your sources of protein and vegetables throughout the day, as each provides different vitamins and minerals that are important for your health."*](https://www.healthline.com/nutrition/vegan-diet-guide#at-restaurants)
 >   - [An independant analysis of this vegan pizza](https://www.consumentenbond.nl/duurzamer-eten/is-eten-volgens-de-vegan-schijf-gezond)
 
 ****
 
-**This vegan plate might remind you of the commonly known food pyramid or food plate. Well, as you'll see this vegan plate has many similarities with that framework except that it's completely vegan! It has been created by a team of dietitians working together with the Dutch Society for Veganism. They have ensured that people following the vegan plate will get you all the nutrients that their body needs.**
+**This vegan plate might remind you of the commonly known food pyramid or food plate. And as you'll see this vegan plate has many similarities with those framworks except that it's completely vegan! The vegan plate was created by a team of dietitians working together with the Dutch Society for Veganism. They have ensured that people following the vegan plate will get you all the nutrients that their body needs.**
 > [Source: NieuwsVoorDietisten](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
 
 **When explaining the sections filled with a lot of carbohydrates, fats or protein, we won't go much into the details of HOW MUCH you need of those categories. As this depends on multiple factors which can differ a lot per person.**
@@ -72,12 +74,12 @@ Images of vegan meals
 >   - [*"Your recommended calorie intake depends on various factors, like age and activity level."*](https://www.healthline.com/nutrition/how-many-calories-per-day)
 >   - [Factors that might affect your vitamin D levels: Where you live, Your age, Your skin color, Your weight, Certain health conditions](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 
-**Let's start with the biggest section: The vegetables. The recommended amount is at least 250 to 300 grams per day.**
+**Let's start with the biggest section: Vegetables. The recommended amount is at least 250 to 300 grams per day.**
 > [https://www.veganisme.org/informatie/voeding/](https://www.veganisme.org/informatie/voeding/)
 
-**Then the second biggest section is the wholemeal grains (and potatoes). This includes brown rice, potatoes, wholemeal bread, oats, wholemeal pasta. Being a good source for certain nutrients this section is partly how you get your complete proteins from plants!**
+**Then the second biggest section is the wholemeal grains (and potatoes). This section includes brown rice, potatoes, wholemeal bread, oats, wholemeal pasta. Being a good source for certain nutrients this section is partly how you get your complete protein from plants!**
 
-**Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chickpeas and all beans. Legumes are a great source for many essential nutrients and ontop of that legumes combined with a wholemeal grain can be considered to make a complete protein.**
+**Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chickpeas and all beans. Legumes are a great source for many essential nutrients and ontop of that legumes combined with a wholemeal grain can be considered a complete protein.**
 >   - [Source](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx) that claims this. 
 >   - [For example, grains like rice are too low in lysine to be considered a complete source of protein. Yet, by also eating lentils or beans, which are higher in lysine, throughout the day, you can be sure to obtain all nine essential amino acids](https://www.healthline.com/nutrition/complete-protein-for-vegans#_noHeaderPrefixedContent)
 
@@ -93,7 +95,7 @@ Images of vegan meals
 **This actually look like a vary tasty dinner!**
 > Source: My personal opinion :)
 
-**If at any point this all seems like a lot to take in. There's no need to worry as in this video we'll gradually build up a complete and simple overview of all the essential practical information for you to start pursuing a healthy plant-based diet.**
+**If at any point this all seems like a lot to take in. There's no need to worry as in this video we'll gradually build up a complete and simple overview of all the essential practical information that you need to start pursuing a healthy plant-based diet.**
 
 **Then our next section is fruit. The recommended amount is to eat 2 to 3 pieces of fruit every single day.**
 > [https://www.veganisme.org/informatie/voeding/](https://www.veganisme.org/informatie/voeding/)
@@ -101,12 +103,12 @@ Images of vegan meals
 **Or alternatively, according to the National Health Service of the UK, when eating a vegan diet the recommended amount combined with is vegetables at least 5 portions (so for example 250 grams of vegetables and 2 pieces of fruit).**
 > [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 
-**Then our next slice is nuts, pips and seeds. Even though peanuts are technically a legume, nutrionally they are also in this sections. So peanutbutter, chiaseeds, flaxseeds, walnuts, almonds, sesame seeds, tahini. They are all part of this seciton. Recommended is to eat at least a handul of nuts every single day and once a week a handful extra.**
+**Then our next slice is nuts, pips and seeds. Even though peanuts are technically a legume, nutrionally they are also in this sections. So peanutbutter, chiaseeds, flaxseeds, walnuts, almonds, sesame seeds, tahini. They are all part of this seciton. Recommended is to eat at least a handfull of nuts every single day and once a week a handful extra.**
 > [Hoe Kan Ik Gezond Veganistisch Eten](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
 
 **We have now arrived at the final section of the vegan plate: the crust**
 
-**But first, our research has shown that there are certain nutrients you should be mindful of when you stop eating animal products. Looking at the list of those nutrients, it might seem like a lot. But here's the good news: if you follow the guidelines we've already covered, you'll be getting sufficient amounts of all these nutrients in green.**
+**But first, our research has shown that there are certain nutrients you should look out for when you stop eating animal products. Looking at the list of those nutrients, it might seem like a lot. But here's the good news: if you follow the guidelines we've covered so far, you'll be getting sufficient amounts of all these nutrients in green.**
 
 **Now, let's talk about the remaining nutrients. You might find that you're already consuming many of these nutrients. It's simpeler than you think, so sit tight and stay tuned.**
 - Protein * + -
@@ -160,18 +162,19 @@ Images of vegan meals
 >   - [*"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*](https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6)
 
 **For your calcium they've included an inner section in the vegan plate for calcium rich products. So make sure to also include them in your diet. Calciumrich products include**
-- **Green, leafy vegetables such as broccoli, cabbage and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)**
+- **Green, leafy vegetables such as broccoli and cabbage**
+> and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
 - **Sesame seeds**
 - **Tahini**
-- **Dried fruit, such as raisins, prunes, figs and dried apricots**
+- **Dried fruit, such as raisins, prunes, figs, dried apricots**
 - **Calcium-set tofu**
 - **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
 >   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 >   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
 
-**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following this vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
+**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following the vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
 
-**For the remaining nutrients we go to the crust of the vegan plate  which represents what you consume through water. So water and supplements. So the consensus recommends supplementing B12, D and both omega 3 DHA and EPA.**
+**For the remaining nutrients we go to the crust of the vegan plate which represents what you consume through water. So water and supplements. So the consensus recommends supplementing vitamin D, vitamin b12 and both omega 3 DHA and EPA.**
 
 ### Vitamin D
 
@@ -189,15 +192,15 @@ Images of vegan meals
 **Alternatively to supplementation you can also consume foods fortified with vitamin D and certain mushrooms (CHECK YOURSELF IF IT'S ENOUGH)**
 > [https://www.healthline.com/health/vegan-vitamin-d](https://www.healthline.com/health/vegan-vitamin-d)
 
-**How much vitamin D you need depends on where you live, age, skin color, weight, foods you eat, and certain health conditions.**
+**How much vitamin D you need depends on multiple factors; including where you live, age, skin color, weight, foods you eat, and certain health conditions.**
 > [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 
-**According to Harvard Medical School you probably don't need to supplement more than 15 to 20 mcg per day. Some may need a higher dose but unless your doctor recommends it, avoid taking more than 100mcg per day.**
+**According to Harvard Medical School you probably don't need to supplement more than 15 to 20 mcg per day. Some may need a higher dose but unless your doctor recommends it, they say avoid taking more than 100 mcg per day.**
 > [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 
-**And beware that it might be added in your fortified foods, so you can check that!**
+**And beware that it might be added to your fortified foods, so check this!**
 
-**To improve absorption of D, it can help to consume them with a meal containing dietary fats. So with your nuts, pips and seeds. Or with olive- or coconot-oil**
+**To improve absorption of vitamin D, it can help to consume them with a meal containing dietary fats. So for example with your nuts, pips and seeds. Or with your olive- or coconot-oil**
 > [Vitamin D is a fat-soluble vitamin, meaning that it does not dissolve in water and is absorbed best in your bloodstream when paired with high fat foods](https://www.healthline.com/nutrition/best-time-to-take-vitamin-d#with-food)
 
 ### Omega 3
@@ -212,39 +215,42 @@ Images of vegan meals
 
 **If you don't want those symptoms and would like to have a healthy cardiovasular system, stay tuned.**
 
-**There are three essential types of Omega 3: ALA, EPA and DHA. If you follow the guidelines that we've covered thus far, you should be getting sufficient ALA**
+**So there are three essential types of Omega 3: ALA, DHA and EPA. If you follow the guidelines that we've covered thus far, you should be getting sufficient ALA**
 > [Source ALA is in chia seeds](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/omega-3-and-omega-6-fats)
 > [Source ALA is in the other mentioned products](https://academic.oup.com/ajcn/article/100/suppl_1/443S/4576604)
 
-**Then there are two other forms of omega 3: EPA and DHA. Your body does convert ALA into DHA and EPA but this conversion isn't very efficient, so on a plant-based diet it is recommended to supplement 250 to 500 mg of combined EPA and DHA every single day.**
+**Then there are two other forms of omega 3: DHA and EPA. Your body does convert ALA into DHA and EPA but this conversion isn't very efficient, so on a plant-based diet it is recommended to supplement 250 to 500 mg of combined EPA and DHA every single day.**
 > [https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines](https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines)
 
 ### B12
-**Finally, arguably the most important nutrient of this video: vitamin B12**
+**And finally, arguably the most important nutrient of this video: vitamin B12**
 
 **Among other things vitamin B12 keeps the nervous system healthy. Symptoms of a deficiency include: extreme tiredness, a lack of energy, pins and needles, a sore and red tongue, mouth ulcers, muscle weakness, problems with your vision, psychological problems, which can range from mild depression or anxiety to confusion and dementia, and problems with memory, understanding and judgement**
 [https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/](https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/)
 
 **Again some pretty intense stuff which you van avoid by supplementing!**
 
-**Instead of supplementing you can also consume foods which are fortified with B12 (CHECK THIS THOUGH)**
+**Instead of supplementing you can also consume foods which are fortified with vitamin B12 (CHECK THIS THOUGH)**
 
-**A type of B12 is in some natural plantbased products, but this type is not properly absorbed, and so currently the only consensus on a reliable source of vitamin B12 is through either supplementation or fortified foods.**
+**A type of B12 is in some natural plantbased products, but this type is not properly absorbed, and so currently the only consensus on a reliable source of vitamin B12 is through either supplementation or fortified products.**
 
 **If you're doing a daily supplementation take at least 10mcg per day**
-**and at most 1000 mcg.**
-**This maximum is so high because B12 is a water-soluble (Unlike D and Omega-3) vitamine which makes high doseges generally considered safe.**
+**and at most 1000 mcg a day.**
+**This maximum is so high because B12 is a water-soluble (Unlike D and Omega-3) vitamin which makes high doseges generally considered safe.**
 
 **Because B12 is water-soluble, you don't need to consume them with food. Although you can take and absorb B12 at any time during the day, mornings are recommended due to their important role in nutrient metabolism and energy production.**
 > [https://www.healthline.com/nutrition/best-time-to-take-vitamins#water-soluble-vitamins](https://www.healthline.com/nutrition/best-time-to-take-vitamins#water-soluble-vitamins)
 
-> If you only supplement weekly, it is recommended to take at least 2000mcg. I know, daily at least 10, weekly at least 2000? The numbers don't add up! This is just how vitamin b12 works. You can check the following reference if you want to learn more!
+> If you choose to supplement only once a week, the recommended is to supplement at least 2000mcg once a week. I know, daily at least 10mcg, weekly at least 2000mcg? This doesn't add up! This is just how vitamin b12 works and if you want to learn more you can check out our references in the description!
 >   - [https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-b12/what-every-vegan-should-know-about-vitamin-b12)
 >   - [https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks](https://www.health.harvard.edu/staying-healthy/taking-too-much-vitamin-d-can-cloud-its-benefits-and-create-health-risks)
 >   - [https://www.healthline.com/nutrition/too-much-vitamin-b12#helpful-or-harmful](https://www.healthline.com/nutrition/too-much-vitamin-b12#helpful-or-harmful)
 
 ### Recap
-**This was the vegan plate. So if you eat each of these 6 sections every single day and vary within those sections and make sure to include enough iodine and calcium in your diet according to the consensus you will get all the nutrients that you need.**
+**This was the vegan plate. And here you can see the complete and simple overview of all the practical essential information that we discussed in this video. If you follow this overview and eat each of these 6 section every single day and vary within the 5 slices the consnsus says you will get all the nutrients you need.**
+
+**If you are uncertain you can use cronometer, in which you can track all you eat and see if you are getting sufficient amounts of each nutrient.**
+
 **If you can think of anyone who might benefit from this video, please feel free to share this. Thank you for watching! Goodbye**
 
 ### Pro tips 
