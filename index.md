@@ -106,7 +106,7 @@ Images of vegan meals
 **Or alternatively, according to the National Health Service of the UK, when eating a vegan diet the recommended amount combined with is vegetables at least 5 portions (so for example 250 grams of vegetables and 2 pieces of fruit).**
 > [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 
-**Then our next slice is nuts, pips and seeds. Even though peanuts are technically a legume, nutrionally they are also in this sections. So peanutbutter, chiaseeds, flaxseeds, walnuts, almonds, sesame seeds, tahini. They are all part of this seciton. Recommended is to eat at least a handfull of nuts every single day and once a week a handful extra.**
+**Then our next slice is nuts, pips and seeds. Even though peanuts are technically a legume, nutrionally they are also in this section. So peanutbutter, chiaseeds, flaxseeds, walnuts, almonds, sesame seeds, tahini. They are all part of this seciton. Recommended is to eat at least a handfull of nuts every single day and once a week a handful extra.**
 > [Hoe Kan Ik Gezond Veganistisch Eten](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
 
 **Before we move to the final section: 'the crust', A few remarks about these 5 slices.**
@@ -127,7 +127,47 @@ Images of vegan meals
 >   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 >   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
 
-**Finally: Iron. TODO**
+**Finally: Iron. To make sure you get enough iron, it is recommended to pair iron with vitamin C in your meals, as this enhances your body's ability to absorb iron.**
+
+**Foods rich in iron include**
+- **This whole section of legumes**
+- **Seeds, especially Pumpkin, sesame, hemp and flaxseeds**
+- **Nuts, especially  almonds, cashews, pine nuts and macadamia nuts**
+- **Leafy green vegetables**
+- **Dried tomatoes or tomatoe paste**
+- **Potatoes with skin**
+
+**For vitamin C fruits and vegetables are the best sources of this nutrient.**
+- **Citrus fruits and citrust juice (oranges, kiwi, lemon, grapefruit)**
+- **Chard**
+- **Red or green bell pepper**
+- **Tomatoes**
+- **Strawberries**
+- **Cruciferous vegetables (broccoli, Brussels sprouts, cabbage, cauliflower)**
+- **White potatoes**
+
+**Conversely, some foods can actually hinder your body's ability to absorb iron as well, including:**
+- **Coffee, tea (even decaffeinated) and soda**
+- **Dairy products and calcium supplements**
+- **Foods high in dietary fiber**
+- **Wine and beer**
+
+> [https://scopeblog.stanford.edu/2017/10/06/ways-to-boost-blood-iron-levels-while-eating-a-vegan-or-vegetarian-diet/](https://scopeblog.stanford.edu/2017/10/06/ways-to-boost-blood-iron-levels-while-eating-a-vegan-or-vegetarian-diet/)
+> [https://www.healthline.com/nutrition/iron-rich-plant-foods#TOC_TITLE_HDR_6](https://www.healthline.com/nutrition/iron-rich-plant-foods#TOC_TITLE_HDR_6)
+> [Vitamin C sources](https://www.hsph.harvard.edu/nutritionsource/vitamin-c/)
+> ["Accumulating evidence strongly suggests that in addition to the known ability of dietary ascorbate to enhance nonheme iron absorption in the gut, ascorbate within mammalian systems can regulate cellular iron uptake and metabolism"](https://www.sciencedirect.com/science/article/abs/pii/S0891584914003220)
+> The amount of iron you need is:
+>     8.7mg a day for men over 18
+>     14.8mg a day for women aged 19 to 50
+>     8.7mg a day for women over 50
+> [https://www.nhs.uk/conditions/vitamins-and-minerals/iron/](https://www.nhs.uk/conditions/vitamins-and-minerals/iron/)
+>
+> "People who follow a vegan diet need 1.8 times the RDA, compared with those who eat meat. This is due to the fact that nonheme iron is not as readily available to your body as heme iron"
+> [https://www.healthline.com/nutrition/how-much-iron-per-day#influencing-factors](https://www.healthline.com/nutrition/how-much-iron-per-day#influencing-factors)
+>
+> #### UI
+>"Tolerable Upper Intake Level (UL) - the highest amount you can safely consume - is 40-45 mg per day for iron, depending on your sex and age"
+> [https://www.healthline.com/nutrition/how-much-iron-per-day#influencing-factors](https://www.healthline.com/nutrition/how-much-iron-per-day#influencing-factors)
 
 **Here is a simple overview of what we've discussed thus far. The 5 slices, that you should vary within each slice and how to get enough iodine, calcium and iron**
 
