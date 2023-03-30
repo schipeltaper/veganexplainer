@@ -50,7 +50,7 @@ Images of vegan meals
 > - [Harvard School of Public Health](https://www.hsph.harvard.edu/)
 > - [Vegan Society](https://www.vegansociety.com/)
 
-**And now... Let's get concrete and simple.**
+**And now... Let's get concrete and simple. And talk about HOW to eat a healthy vegan diet**
 
 ....
 
@@ -67,6 +67,8 @@ Images of vegan meals
 
 **This vegan plate might remind you of the commonly known food pyramid or food plate. And as you'll see this vegan plate has many similarities with those framworks except that it's completely vegan! The vegan plate was created by a team of dietitians working together with the Dutch Society for Veganism. They have ensured that people following the vegan plate will get you all the nutrients that their body needs.**
 > [Source: NieuwsVoorDietisten](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
+> [Food pyramid](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-pyramid/)
+> [Food plate](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
 
 **When explaining the sections filled with a lot of carbohydrates, fats or protein, we won't go much into the details of HOW MUCH you need of those categories. As this depends on multiple factors which can differ a lot per person.**
 > A few examples that show this:
@@ -82,6 +84,7 @@ Images of vegan meals
 **Which brings us to the next sections. Legumes! This includes peas, tofu, tempeh, chickpeas and all beans. Legumes are a great source for many essential nutrients and ontop of that legumes combined with a wholemeal grain can be considered a complete protein.**
 >   - [Source](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/waarom-hebben-vegetariers-en-veganisten-meer-eiwit-nodig-.aspx) that claims this. 
 >   - [For example, grains like rice are too low in lysine to be considered a complete source of protein. Yet, by also eating lentils or beans, which are higher in lysine, throughout the day, you can be sure to obtain all nine essential amino acids](https://www.healthline.com/nutrition/complete-protein-for-vegans#_noHeaderPrefixedContent)
+>   - [Protein requiremens study](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nutritional-value-of-plantbased-diets-in-relation-to-human-amino-acid-and-protein-requirements/BC1E672DD32895320E2A2C3DFA400A10)
 
 **Factcheck me right now!**
 
@@ -106,11 +109,32 @@ Images of vegan meals
 **Then our next slice is nuts, pips and seeds. Even though peanuts are technically a legume, nutrionally they are also in this sections. So peanutbutter, chiaseeds, flaxseeds, walnuts, almonds, sesame seeds, tahini. They are all part of this seciton. Recommended is to eat at least a handfull of nuts every single day and once a week a handful extra.**
 > [Hoe Kan Ik Gezond Veganistisch Eten](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
 
-**We have now arrived at the final section of the vegan plate: the crust**
+**Before we move to the final section: 'the crust', A few remarks about these 5 slices.**
+**Firstly: it is crucial that you vary within each slice! When looking at fruits for example: that you eat a variety of fruits in your diet!**
 
-**But first, our research has shown that there are certain nutrients you should look out for when you stop eating animal products. Looking at the list of those nutrients, it might seem like a lot. But here's the good news: if you follow the guidelines we've covered so far, you'll be getting sufficient amounts of all these nutrients in green.**
+**Secondly: Iodine. For your iodine make sure to either eat bread with iodized salt, seaweed, or iodized table salt.**
+>   - [https://www.hsph.harvard.edu/nutritionsource/iodine/](https://www.hsph.harvard.edu/nutritionsource/iodine/)
+>   - [*"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*](https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6)
 
-**Now, let's talk about the remaining nutrients. You might find that you're already consuming many of these nutrients. It's simpeler than you think, so sit tight and stay tuned.**
+**Thirdly: calcium. They've included an inner section in the vegan plate for calcium rich products. So make sure to also include them in your diet. Calciumrich products include**
+- **Green, leafy vegetables such as broccoli and cabbage**
+> and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
+- **Sesame seeds**
+- **Tahini**
+- **Dried fruit, such as raisins, prunes, figs, dried apricots**
+- **Calcium-set tofu**
+- **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
+>   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
+>   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
+
+**Finally: Iron. TODO**
+
+**Here is a simple overview of what we've discussed thus far. The 5 slices, that you should vary within each slice and how to get enough iodine, calcium and iron**
+
+**With all this in mind, let's take a look at the nutrients you should look out for when you stop eating animal products (according to our research). It might seem like a lot, but don't get discouraged just yet! Here's the good news: if you follow the guidelines we've covered so far, you'll be getting sufficient amounts of all these nutrients in green.**
+
+**If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following the vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
+
 - Protein * + -
 - Iron * +
 - Vit B1 *
@@ -130,7 +154,7 @@ Images of vegan meals
 > + [National Health Service (UK)](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 > - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/33341313/)
 
-**We see Iodine, Calcium, B12, D and Omega 3 DHA and EPA and water left over as not being trivially sufficient.**
+**3 nutrients remain that are not trivially sufficient with what we've discussed so far.**
 
 > Wait, how can I trust you in that you really get all those nutrients? I'm glad you ask! In our references page we've included a table with all nutrients that you should look out for when having a vegan diet, and how you can get them through the vegan plate with references.
 > Our nutrient table is [here](http://veganexplainer.pineapplees.com/nutrition)
@@ -157,24 +181,7 @@ Images of vegan meals
 > - [*Grain products tend to provide the highest levels of selenium but other foods like soy beans and tofu, along with certain nuts, seeds and different legumes also provide selenium. Consuming a variety of foods and including whole grains should help you to meet selenium requirements.*](https://lettucevegout.com/vegan-nutrition/selenium/)
 >   - [*"Vegans in low selenium areas should eat Brazil nuts regularly"*](https://veganhealth.org/selenium/)
 
-**For your iodine make sure to either eat bread with iodized salt, seaweed, or iodized table salt.**
->   - [https://www.hsph.harvard.edu/nutritionsource/iodine/](https://www.hsph.harvard.edu/nutritionsource/iodine/)
->   - [*"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*](https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6)
-
-**For your calcium they've included an inner section in the vegan plate for calcium rich products. So make sure to also include them in your diet. Calciumrich products include**
-- **Green, leafy vegetables such as broccoli and cabbage**
-> and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
-- **Sesame seeds**
-- **Tahini**
-- **Dried fruit, such as raisins, prunes, figs, dried apricots**
-- **Calcium-set tofu**
-- **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
->   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
->   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
-
-**3 nutrients to go! We're almost there. If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following the vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
-
-**For the remaining nutrients we go to the crust of the vegan plate which represents what you consume through water. So water and supplements. So the consensus recommends supplementing vitamin D, vitamin b12 and both omega 3 DHA and EPA.**
+**For these remaining nutrients we go to the crust of the vegan plate which represents what you consume through water. So water and supplements. So the consensus recommends supplementing vitamin D, vitamin b12 and both omega 3 DHA and EPA.**
 
 ### Vitamin D
 
