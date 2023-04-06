@@ -65,7 +65,7 @@ Images of vegan meals
 
 ****
 
-**This vegan plate might remind you of the commonly known food pyramid or food plate. And as you'll see this vegan plate has many similarities with those framworks except that it's completely vegan! The vegan plate was created by a team of dietitians working together with the Dutch Society for Veganism. They have ensured that people following the vegan plate will get you all the nutrients that their body needs.**
+**This vegan plate might remind you of the commonly known food pyramid or food plate. And as you'll see this vegan plate has many similarities to those framworks except that it's completely vegan! The vegan plate was created by a team of dietitians working together with the Dutch Society for Veganism. They have ensured that people following the vegan plate will get you all the nutrients that their body needs.**
 > [Source: NieuwsVoorDietisten](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
 > [Food pyramid](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-pyramid/)
 > [Food plate](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
@@ -112,11 +112,7 @@ Images of vegan meals
 **Before we move to the final section: 'the crust', A few remarks about these 5 slices.**
 **Firstly: it is crucial that you vary within each slice! When looking at fruits for example: that you eat a variety of fruits in your diet!**
 
-**Secondly: Iodine. For your iodine make sure to either eat bread with iodized salt, seaweed, or iodized table salt.**
->   - [https://www.hsph.harvard.edu/nutritionsource/iodine/](https://www.hsph.harvard.edu/nutritionsource/iodine/)
->   - [*"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*](https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6)
-
-**Thirdly: calcium. They've included an inner section in the vegan plate for calcium rich products. So make sure to also include them in your diet. Calciumrich products include**
+**Secondly: calcium. They've included an inner section in the vegan plate for calcium rich products. So make sure to also include them in your diet. Calciumrich products include**
 - **Green, leafy vegetables such as broccoli and cabbage**
 > and okra, but not spinach (spinach does contain high levels of calcium but the body cannot digest it all)
 - **Sesame seeds**
@@ -126,6 +122,10 @@ Images of vegan meals
 - **It is also often added to fortified foods to replace the animal-product. (CHECK THIS THOUGH)**
 >   - [https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/)
 >   - Calcium: [*Plant-based milk/yoghurt alternatives, Green leafy vegetables, Fresh fruit, Dried fruit, Beans and pulses, Nuts and seeds, Bread products, Dried herbs and Other foods*](https://www.bbcgoodfood.com/howto/guide/best-vegan-calcium-sources) (follow the link for more detail)
+
+**Thirdly: Iodine. For your iodine make sure to either eat bread with iodized salt, seaweed, or iodized table salt.**
+>   - [https://www.hsph.harvard.edu/nutritionsource/iodine/](https://www.hsph.harvard.edu/nutritionsource/iodine/)
+>   - [*"As diets become increasingly restrictive, assurance of adequate iodine intake increasingly depends on the appropriate use of iodized salt and other dietary supplements."*](https://jhu.pure.elsevier.com/en/publications/iodine-deficiency-in-vegetarian-and-vegan-diets-evidence-based-re-6)
 
 **Finally: Iron. To make sure you get enough iron, it is recommended to pair iron with vitamin C in your meals, as this enhances your body's ability to absorb iron.**
 
@@ -146,12 +146,6 @@ Images of vegan meals
 - **Cruciferous vegetables (broccoli, Brussels sprouts, cabbage, cauliflower)**
 - **White potatoes**
 
-**Conversely, some foods can actually hinder your body's ability to absorb iron as well, including:**
-- **Coffee, tea (even decaffeinated) and soda**
-- **Dairy products and calcium supplements**
-- **Foods high in dietary fiber**
-- **Wine and beer**
-
 > [https://scopeblog.stanford.edu/2017/10/06/ways-to-boost-blood-iron-levels-while-eating-a-vegan-or-vegetarian-diet/](https://scopeblog.stanford.edu/2017/10/06/ways-to-boost-blood-iron-levels-while-eating-a-vegan-or-vegetarian-diet/)
 > [https://www.healthline.com/nutrition/iron-rich-plant-foods#TOC_TITLE_HDR_6](https://www.healthline.com/nutrition/iron-rich-plant-foods#TOC_TITLE_HDR_6)
 > [Vitamin C sources](https://www.hsph.harvard.edu/nutritionsource/vitamin-c/)
@@ -171,9 +165,9 @@ Images of vegan meals
 
 **Here is a simple overview of what we've discussed thus far. The 5 slices, that you should vary within each slice and how to get enough iodine, calcium and iron**
 
-**With all this in mind, let's take a look at the nutrients you should look out for when you stop eating animal products (according to our research). It might seem like a lot, but don't get discouraged just yet! Here's the good news: if you follow the guidelines we've covered so far, you'll be getting sufficient amounts of all these nutrients in green.**
+**With all this in mind, let's take a look at the nutrients our sources say you should look out for when you stop eating animal products. It might seem like a lot, but don't get discouraged just yet! Here's the good news: if you follow the guidelines we've covered so far, you'll be getting sufficient amounts of all these nutrients in green.**
 
-**If you are thinking of a nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following the vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
+**If you are thinking of an essential nutrient that you think we should have mentioned, please look up what contains that nutrient and see if you can easily get sufficient amounts through following the vegan plate. We're willing to bet you can! In any case please share your findings in the comments!**
 
 - Protein * + -
 - Iron * +
@@ -268,6 +262,7 @@ Images of vegan meals
 
 **Then there are two other forms of omega 3: DHA and EPA. Your body does convert ALA into DHA and EPA but this conversion isn't very efficient, so on a plant-based diet it is recommended to supplement 250 to 500 mg of combined EPA and DHA every single day.**
 > [https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines](https://www.healthline.com/nutrition/how-much-omega-3#general-guidelines)
+> [Omega-3 Fatty Acids NIH](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/)**There is no established Upper Limit (UL) of omega-3 EPA+DHA, but it is recommended not to consume too much. "according to the European Food Safety Authority, long-term consumption of EPA and DHA supplements at combined doses of up to about 5 g/day appears to be safe" and "Similarly, the FDA has concluded that dietary supplements providing no more than 5 g/day EPA and DHA are safe when used as recommended". It's regarded safe and but it's not necessary and there are some reasons for not taking so much: "The IOM did not establish a UL for any omega-3s, although it noted that high doses of DHA and/or EPA (900 mg/day of EPA plus 600 mg/day DHA or more for several weeks) might reduce immune function due to suppression of inflammatory responses". This is why we'll recommend less than 1 gram per day.**
 
 ### B12
 **And finally, arguably the most important nutrient of this video: vitamin B12**
