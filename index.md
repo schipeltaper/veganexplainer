@@ -1,45 +1,27 @@
-# Scientific References
+# How to eat a healthy vegan diet?
 
-Following is the script of the **"How to eat vegan healthily"** youtube video with the references to all claims we make.
+Following is the script of the video with all the references.
 
 ### SCRIPT
 
 ## Intro
-**Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus!**
+**How to eat a healthy vegan diet. Is it even possible? And if it is possible, how doable is it really? In the past decade the vegan diet has grown in popularity, even amongst professional athletes!**
 
-Images of vegan meals
+> - [Images of vegan meals](https://www.pexels.com/search/vegan%20food/)
+> - [Used graph](https://gfi.org/blog/2020-state-of-the-industry-highlights/?utm_source=Newsletter&utm_medium=Email&utm_campaign=March_19_Newsletter)
+> - [Veganism grown in popularity](https://www.vegansociety.com/news/media/statistics/worldwide)
+> - [Vegan Athletes](https://www.veganfoodandliving.com/features/vegan-athletes-plant-based-diet/)
 
-**The vegan diet; a diet that excludes animal products like milk, eggs, beef and pork... In the past decade, we have seen a significant increase in the number of people interested in adopting such a diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
+**At the same time, there are many questions and concerns floating around about whether such a diet is truly healthy and how to ensure you get all the nutrients your body needs. That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will provide you with practical information on how to ensure you are getting all the nutrients that your body needs based on the current scientific consensus.**
 
-**That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!**
+**The vegan diet; a diet that excludes animal products like beef, milk, chicken, eggs, fish and pork. Let's first address the question: is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals. And they say appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle. And in this, they also include athletes.**
 
-# How to have a healthy plant-based diet?
-## Based on the current scientific consensus
----
-<!-- **Welcome to this video on how to eat a healthy vegan diet based on the current scientific consensus! In the past decade, we have seen a significant increase in the number of people who are interested in adopting a plant-based diet. At the same time, there are quite some concerns and questions floating around about whether it is truly healthy and how to ensure you are getting all the nutrients your body needs.**
-
-**That's why in this video, we set out to create a complete and simple overview on how you can eat a healthy plant-based diet. We will dive into the scientific research, and provide you with practical information on how to ensure you are getting all the nutrients your body needs. Whether you're already vegan, just starting out, or simply curious about a plant-based diet, this video will provide you with valuable information to help you optimize your health. So, let's get started!** -->
-> Source showing interest in a plant-based diet is growing https://www.vegansociety.com/news/media/statistics/worldwide
-> Two graphs: [1](https://gfi.org/blog/2020-state-of-the-industry-highlights/?utm_source=Newsletter&utm_medium=Email&utm_campaign=March_19_Newsletter) and [2](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07_hy)
-
--------------------------------------------
-
-**Let's first adress the question: Is it even possible? Here is the 'Academy of Nutrition and Dietetics'. They represent more than 112,000 credentialed nutrition and dietetics practitioners. They are the world's largest organization of food and nutrition professionals.**
-> https://www.eatright.org/about-the-academy
-
-**And they say appropriately planned vegan diets are healthful and nutritionally adequate for all stages of the life cycle. And in this, they also include athletes.**
-> Sources that claim this is possible: 
+> [Academy of Nutrition and Dietetics](https://www.eatright.org/about-the-academy)
+> Sources that claim a healthy vegan diet is possible: 
 >  - [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/27886704/) *"appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate, and may provide health benefits for the prevention and treatment of certain diseases."*
 > - [Voedingscentrum](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx) Translated from Dutch: *"How can I eat vegan healthily?"* followed by a detailed explanation.
 > - [World Health Organization](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y) *"healthful and well-planned plant-based meals can provide adequate levels of micronutrients."*
 > - For athletes: [*"it is the contention of this article that a nutritive vegan diet can be designed to achieve the dietary needs of most athletes satisfactorily"*](https://pubmed.ncbi.nlm.nih.gov/28924423/)
-
-<!-- **If you do eat or want to eat more plantbased, be sure to watch until the end. As although it is very possible, there are clear examples of vegan diets which are not healthy.**
-> Sources that show different kinds of health risks associated to a not well planned vegan diet:
-> - [*"Vitamin B12 Deficiency Is Prevalent Among Czech Vegans Who Do Not Use Vitamin B12 Supplements"*](https://www.mdpi.com/2072-6643/11/12/3019)
-> - [*"vegans are at higher risk of iron and calcium deficiency"*](https://europepmc.org/article/med/31617971)
-> - [*"lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans"*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779846/) -->
-
 
 **We've ensured all our claims are either directly based on scientific literature or on generally accepted to be reliable organizations who base their claims on scientific literature. You can find a link to all our references in the description.**
 > The main organizations we have used:
@@ -56,7 +38,8 @@ Images of vegan meals
 
 
 ![VeganPizza](Poster-Vegan-Schijf-.png)
-[Translated and taken from https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/]
+
+Translated and taken from [https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/](https://www.nieuwsvoordietisten.nl/nieuw-de-vegan-schijf/)
 
 **Let me introduce you to the vegan plate. It has 5 slices and a crust. Each of these 6 sections represents one category of foods, like fruits and vegetables. The consensus is that if you eat a certain amount of each of these categories every single day and vary within those categories in general you should get all the nutrients you need.**
 >   - [Dutch source explaining how to eat vegan](https://www.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoe-kan-ik-gezond-veganistisch-eten-.aspx)
@@ -295,7 +278,7 @@ Images of vegan meals
 
 **If you can think of anyone who might benefit from this video, please feel free to share this. Thank you for watching! Goodbye**
 
-### Pro tips 
+<!-- ### Pro tips 
 And now, for some extra tips:
 
 **Should I take mulivitamin? Harvard School Of Public Health says "For those who eat a healthful diet, a multivitamin may have little or no benefit. A diet that includes plenty of fruits, vegetables, whole grains, good protein sources, and healthful fats should provide most of the nutrients needed for good health." And concludes by saying "a multivitamin CANNOT in any way replace a healthful well-balanced diet. The main purpose of a multivitamin is to fill in nutritional gaps, and provides only a hint of the vast array of healthful nutrients and chemicals naturally found in food"**
@@ -324,4 +307,4 @@ And now, for some extra tips:
 
 **Our goals was a video that gives a simple, complete and clear overview of how to eat a healthy diet. Subscribe to not miss our video ""How to eat vegan healthily in 2024" where we will include new resources, and more thorough information.**
 
-**If you know someone who might benefit from this, please do share this video. We'd really appreciate it! And it makes us very happy to read your feedback and thoughts in the comments! So feel free to do so :) BYEE**
+**If you know someone who might benefit from this, please do share this video. We'd really appreciate it! And it makes us very happy to read your feedback and thoughts in the comments! So feel free to do so :) BYEE** -->
