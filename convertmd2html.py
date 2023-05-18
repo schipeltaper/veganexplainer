@@ -1,7 +1,8 @@
+# This document converts a markdown file to html file
 import markdown2
 
 # read the markdown file
-with open('input.md', 'r') as file:
+with open('index.md', 'r') as file:
     markdown_text = file.read()
 
 # convert markdown to html
